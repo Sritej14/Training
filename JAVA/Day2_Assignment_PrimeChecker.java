@@ -1,3 +1,6 @@
+Task 3: Control Flow
+=====================    
+Write a Java program that reads an integer and prints whether it is a prime number using a for loop and if statements.
 
 import java.util.Scanner;
 class PrimeChecker {
