@@ -1,5 +1,6 @@
-
-
+Task 4: Arrays - Declaration, Initialization, and Usage
+========================================================    
+Create a program that declares an array of integers, initializes it with consecutive numbers, and prints the array in reverse order.
 
 import java.util.*;
 import java.util.Scanner;
